@@ -3,9 +3,9 @@ html {
 }
 
 @keyframes blink {
-    0% { box-shadow: 0 0 10px 5px rgb(109, 172, 109); }
+    0% { box-shadow: 0 0 10px 5px rgb(82, 186, 204); }
     50% { box-shadow: 0 0 10px 5px transparent; }
-    100% { box-shadow: 0 0 10px 5px  rgb(109, 172, 109); }
+    100% { box-shadow: 0 0 10px 5px rgb(82, 186, 204); }
   }
   
   .blink {
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar {
-    background:#6ab446;
+    background:#37a7c6;
 }
 
 .nav-link,
@@ -65,7 +65,7 @@ body {
 }
 
 .description h1 {
-    color: #6ab446;
+    color: #37a7c6;
 }
 
 .description p {
@@ -75,8 +75,8 @@ body {
 }
 
 .description button {
-    border:1px solid #6ab446;
-    background:#6ab446;
+    border:1px solid #37a7c6;
+    background:#37a7c6;
     border-radius: 0;
     color:#fff;
 }
@@ -114,8 +114,8 @@ body {
 }
 
 .features .btn {
-    background-color: #589b37;
-    border: 1px solid #589b37;
+    background-color: #37a7c6;
+    border: 1px solid #37a7c6;
     color: #fff;
     margin-top: 20px;
 }
